@@ -5,7 +5,7 @@
 -- GROUP BY U.name
 -- ORDER BY travelled_distance DESC, U.name ASC;
 
-select U.name as name, COALESCE(SUM(R.distance),0) as travelled_distance
+select U.name, COALESCE(SUM(R.distance),0) as travelled_distance
 from Users U LEFT JOIN Rides R 
 ON U.id = R.user_id
 GROUP BY U.id,U.name
