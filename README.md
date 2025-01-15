@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0262-trips-and-users](https://github.com/itanmaysharma/sql-questions-code/tree/master/0262-trips-and-users) |
 | [1541-top-travellers](https://github.com/itanmaysharma/sql-questions-code/tree/master/1541-top-travellers) |
 <!---LeetCode Topics End-->
