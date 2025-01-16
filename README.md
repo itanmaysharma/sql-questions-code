@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/itanmaysharma/sql-questions-code/tree/master/0262-trips-and-users) |
 | [1541-top-travellers](https://github.com/itanmaysharma/sql-questions-code/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/itanmaysharma/sql-questions-code/tree/master/1670-patients-with-a-condition) |
+| [1811-fix-names-in-a-table](https://github.com/itanmaysharma/sql-questions-code/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
